@@ -1,5 +1,7 @@
+//l'inserimento di una variabile
 const num= 22;
 //console.log(num);
+
 //Chiedi all’utente il suo nome,
 const first_name = prompt('Inserisci il tuo nome');
 //console.log(first_name);
